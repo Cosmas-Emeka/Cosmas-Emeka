@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Html, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach on linkedin at https://www.linkedin.com/in/onwuka-cosmas-3a3696237
+- 📫 You can reach me via Gmail cosmasemeka11@gmail.com, via linkedin @ https://www.linkedin.com/in/onwuka-cosmas-3a3696237
+      and also on twitter @Emeka05773933
 
 <!---
 Cosmas-Emeka/Cosmas-Emeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
